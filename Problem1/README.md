@@ -23,31 +23,31 @@ In computer science, brute-force search or exhaustive search, also known as gene
 
 ; Sample Numbers to check for Prime Numbers
 (display "Is 2 a Prime Number?\n")
-(decide-prime? 2);
+(decide-prime? 2)
 (display "\n")
 
 (display "Is 4 a Prime Number?\n")
-(decide-prime? 4); should return #t
+(decide-prime? 4)
 (display "\n")
 
 (display "Is 5 a Prime Number?\n")
-(decide-prime? 5); should return #f
+(decide-prime? 5)
 (display "\n")
 
 (display "Is 6 a Prime Number?\n")
-(decide-prime? 6); should return #t
+(decide-prime? 6)
 (display "\n")
 
 (display "Is 12 a Prime Number?\n")
-(decide-prime? 12); should return #t
+(decide-prime? 12)
 (display "\n")
 
 (display "Is 25 a Prime Number?\n")
-(decide-prime? 25); should return #f
+(decide-prime? 25)
 (display "\n")
 
 (display "Is 61 a Prime Number?\n")
-(decide-prime? 61); should return #t
+(decide-prime? 61)
 ```
 
 ## Conclusion
