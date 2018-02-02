@@ -1,7 +1,7 @@
 # Theory of Algorithms Assignments
 
 # Racket
-![RacketLogo](https://www.eecs.northwestern.edu/~robby/logos/plt-logo-red-diffuse.png)
+![Racket](https://user-images.githubusercontent.com/14197773/35748018-73810318-0844-11e8-8d03-7198b30273c3.jpg)
 
 ## Racket Overview
 - Racket is a general-purpose programming language as well as the world’s first ecosystem for developing and deploying new languages.[1]
@@ -21,10 +21,11 @@
 1. Clone repository to your machine by using the following command - git clone https://github.com/DonalMcGahon/theory-of-algorithms-assignments
 1. Open the file you would like into DrRacket and run the file by pressing Ctrl & R.
 
-## Lecture
+## Lecturer
  This repository is for problem sheets that are given to me for the module Theory of Algorithms by lecture [Ian McLoughlin](https://ianmcloughlin.github.io/). The course module sample files can be located [here](https://github.com/theory-of-algorithms/example-scheme).
 
 ## Problem Sheet for this Repository
+![image](https://user-images.githubusercontent.com/14197773/35748136-df601e7a-0844-11e8-8925-09a0e8e673ab.png)
 
 
 
