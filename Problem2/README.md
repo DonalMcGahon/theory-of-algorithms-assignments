@@ -27,3 +27,7 @@ will return
 ```#f```
 
 So I used ```even?``` in my solution to check if the number in question is even or odd. So if the number given is even divide it by 2. Otherwise if the number is odd multiply it by 3 and then add 1 to it. I then kept the program running until n equals 1 and the solution has finished.
+
+## Conclusion
+
+I found this problem very interesting and challenging. I learnt about [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) and what it is. I found that doing this probelm helped my skills in the Racket programming language. 
