@@ -17,9 +17,26 @@
 
 ## How to run files in this repository
 
+> Make sure you place racket in your path on your machine to be able to run racket files.
+
+#### DrRacket
+
 1. Make sure you have downloaded and installed DrRacket.
 1. Clone repository to your machine by using the following command - git clone https://github.com/DonalMcGahon/theory-of-algorithms-assignments
 1. Open the file you would like into DrRacket and run the file by pressing Ctrl & R.
+
+> OR
+
+#### Visual Studio Code
+
+For the development of most of these problems I used Visual Studio Code.
+
+> Download Link - https://code.visualstudio.com/download
+
+1. Download and install Visual Studio Code on your machine.
+1. Use for example - racket Problem.rkt on the integrated terminal to run the racket file.
+1. Or you can follow the following tutorial given by my lecturer [Ian McLoughlin](https://github.com/ianmcloughlin) on how to run racket files with the shortcut Ctrl-Alt-B. Here is the [tutorial](https://web.microsoftstream.com/video/a2c20148-deb3-48a5-be55-5f96421ee441). You can find the JSON file in this repository in the folder vcode.
+
 
 ## Lecturer
  This repository is for problem sheets that are given to me for the module Theory of Algorithms by lecture [Ian McLoughlin](https://ianmcloughlin.github.io/). The course module sample files can be located [here](https://github.com/theory-of-algorithms/example-scheme).
