@@ -19,16 +19,16 @@
 
 ; Adapted from - https://stackoverflow.com/questions/5006750/removing-last-element-of-a-listscheme
 ; Method for removing last value of list
-(define (remove-last list)
+(define (remove list)
     (if (null? (cdr list))
         '()
-        (cons (car list) (remove-last (cdr list)))))
+        (cons (car list) (remove (cdr list)))))
 
 (define (rcycle list); define function name and parameter
   (if (null? list); if null return empty list
       '()
       (append (cons (last list) ; return last elemtent in list and join to below
-              (remove-last list); remove last element in the list and join it to the start
+              (remove list); remove last element in the list and join it to the start
                     ))))
 
 (display "Lists cyclically shifted one place to the left \n")

@@ -9,5 +9,8 @@ is called rcycle, and it shifts the list cyclically shifted one place to the rig
 
 ---
 
-## Reseach on Question
+## Research on Question
 After a short while of doing some research on the question, I realised that I needed to create a function that appends one list on the end of another list. I found how to do this form this [reference](https://courses.cs.washington.edu/courses/cse341/98sp/scheme/recursion.html). I then researched how to rotate a list of numbers to the left from this [reference](https://stackoverflow.com/questions/5006750/removing-last-element-of-a-listscheme) and I adapted the code I found to work with my program. Following this I found a method for removing the last value of the list and then appending that value to the rcycle list.
+
+## Design and Solution
+After doing my reseach on the question I first created a function to add one list onto another list. This was to allow me to achieve returing the list cyclically shifted one place to the left. I then created a function that removed the last element of a list which allowed me to then cyclically shift the list one place to the right. I finally displayed the lists that cyclically shift one place to the right and the left.
