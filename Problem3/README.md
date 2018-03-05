@@ -14,3 +14,6 @@ After a short while of doing some research on the question, I realised that I ne
 
 ## Design and Solution
 After doing my reseach on the question I first created a function to add one list onto another list. This was to allow me to achieve returing the list cyclically shifted one place to the left. I then created a function that removed the last element of a list which allowed me to then cyclically shift the list one place to the right. I finally displayed the lists that cyclically shift one place to the right and the left.
+
+## Output
+![image](https://user-images.githubusercontent.com/14197773/37000024-dda2e300-20b9-11e8-9419-47d94bd774e3.png)
