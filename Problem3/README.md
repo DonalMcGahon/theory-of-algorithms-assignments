@@ -1,9 +1,13 @@
 # **Problem Sheet Question 3**
 
-## Problem 2
+## Problem 3
 
 Write, from scratch, two functions in Racket. The first is called lcycle. It takes a
 list as input and returns the list cyclically shifted one place to the left. The second
 is called rcycle, and it shifts the list cyclically shifted one place to the right.
 ![image](https://user-images.githubusercontent.com/14197773/36066558-93e655da-0ea3-11e8-96eb-84b36a4f6f7c.png)
 
+---
+
+## Reseach on Question
+After a short while of doing some research on the question, I realised that I needed to create a function that appends one list on the end of another list. I found how to do this form this [reference](https://courses.cs.washington.edu/courses/cse341/98sp/scheme/recursion.html). I then researched how to rotate a list of numbers to the left from this [reference](https://stackoverflow.com/questions/5006750/removing-last-element-of-a-listscheme) and I adapted the code I found to work with my program. Following this I found a method for removing the last value of the list and then appending that value to the rcycle list.
