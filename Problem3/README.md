@@ -17,3 +17,14 @@ After doing my reseach on the question I first created a function to add one lis
 
 ## Output
 ![image](https://user-images.githubusercontent.com/14197773/37000024-dda2e300-20b9-11e8-9419-47d94bd774e3.png)
+
+
+## Conclusion
+I found the task good to begin with, but I did run into a few problems while trying to create the program. But after doing some more research online I was able to find resources that helped me get the program up and running.
+
+## References
+[Reference 1](https://courses.cs.washington.edu/courses/cse341/98sp/scheme/recursion.html)
+
+[Reference 2](https://stackoverflow.com/questions/13046017/rotate-a-list-to-the-left-in-scheme-racket)
+
+[Reference 3](https://stackoverflow.com/questions/5006750/removing-last-element-of-a-listscheme)
