@@ -25,7 +25,12 @@ I then had to find a way of looping through all the combinations of the list and
 ```
 
 ## Output
+![image](https://user-images.githubusercontent.com/14197773/37035725-58a7a4f6-2145-11e8-8497-fa956e3446e4.png)
 
 ## Conclusion
+I found this problem very interesting and I feel like I learnt a lot from it. I now know a lot more about the combinations built in function and I hopefully will be able to use that function in future problems.
 
 ## References
+[Reference 1](https://stackoverflow.com/questions/41512010/sum-items-in-list-racket)
+
+[Reference 2](https://docs.racket-lang.org/reference/pairs.html#%28def._%28%28lib._racket%2Flist..rkt%29._combinations%29%29)
