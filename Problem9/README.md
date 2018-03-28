@@ -61,6 +61,9 @@ Finally, I used the map built in function to map through each list and if a + b 
 ```
 
 ## Output
+
+![image](https://user-images.githubusercontent.com/14197773/38048477-5ef1a512-32bd-11e8-914a-179ef48ed91b.png)
+
 ## Conclusion
 
 ## References
