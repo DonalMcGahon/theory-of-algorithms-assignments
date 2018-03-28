@@ -61,6 +61,8 @@ Then I used the map built in function to go through each list and sum up the cor
 
 ## Output
 
+![image](https://user-images.githubusercontent.com/14197773/38040987-93a90f76-32a8-11e8-97b2-097e163652da.png)
+
 ## Conclusion
 
 ## References
