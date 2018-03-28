@@ -40,6 +40,25 @@ Or we can simply pass a lambda, like this:
 
 ## Design and Solution
 
+For this problem I first created a integer and set it to null. I also created 3 maj named a, b and c.
+
+```
+(define d null)
+(define (maj a b c)
+```
+I proceeded to check if any of the lists were null to return d, followed by if any of the lists were not equal in length to return d (which is set to null) also.
+
+```
+  (if (null? a)(null? b)(null? c))
+      (if (not(= (length a)(length b)(length c)))
+```
+Then I used the map built in function to go through each list and sum up the corresponding elements. If the sum of the elements is greater than 1, return 1 otherwise return 0.
+
+```
+(map (lambda (a b c) (if (> (+ a b c) 1) 1 0)) a b c)))
+```
+
+
 ## Output
 
 ## Conclusion
