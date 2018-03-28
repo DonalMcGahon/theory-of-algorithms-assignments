@@ -68,3 +68,9 @@ Finally, I used the map built in function to map through each list and if a + b 
 I found that the previous problems on this problem sheet helped me out a lot for this problem. I was able to use what I had learned in the previous problem to help solve and understand this question. I enjoyed doing this problem and once again I am gaining more knowledge of the racket language.
 
 ## References
+
+[Reference 1](https://stackoverflow.com/questions/30501411/what-is-definition-of-map-in-racket)
+
+[Reference 2](https://docs.racket-lang.org/guide/lambda.html)
+
+[Reference 3](https://stackoverflow.com/questions/25696063/lambda-in-racket-explained)
