@@ -64,6 +64,7 @@ Then I used the map built in function to go through each list and sum up the cor
 ![image](https://user-images.githubusercontent.com/14197773/38040987-93a90f76-32a8-11e8-97b2-097e163652da.png)
 
 ## Conclusion
+Through researching and implementing this problem I learned about how the map and lambda function work in racket. I found them very interesting to work with and feel confident to use these functions again with future problems. As I am going through these problem sheets I find myself getting more confident and comforable with the racket language. 
 
 ## References
 
