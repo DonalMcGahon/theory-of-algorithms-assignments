@@ -69,3 +69,8 @@ I found that the previous problem on this problem sheet helped me out a lot for 
 
 ## References
 
+[Reference 1](https://stackoverflow.com/questions/30501411/what-is-definition-of-map-in-racket)
+
+[Reference 2](https://docs.racket-lang.org/guide/lambda.html)
+
+[Reference 3](https://stackoverflow.com/questions/25696063/lambda-in-racket-explained)
