@@ -65,5 +65,7 @@ Finally, I used the map built in function to go through each list and if a = 1, 
 ![image](https://user-images.githubusercontent.com/14197773/38046567-e418a520-32b7-11e8-8dbb-275dde85a794.png)
 
 ## Conclusion
+I found that the previous problem on this problem sheet helped me out a lot for this problem. I was able to use what I had learned in the previous problem to help solve and understand this question. I enjoyed doing this problem and once again I am gaining more knowledge of the racket language.
 
 ## References
+
