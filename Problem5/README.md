@@ -10,9 +10,22 @@ I also researched what hamming weight was and how it works. The Hamming weight o
 So in my case I tested my solution with the amount of 1's there was in a list that consisted of 0's and 1's.
 
 ## Design and Solution
+For the design of this problem I tried to keep it as simple as possible.
+I first defined a hamming weight list. If that list is null, return 0.
+Otherwise take the 2nd element of the pair (cdr list) and take the 1st element of the pair (car list). Then repeat this until the list is null and add all the 1st elements together.
+
+```
+(define (hamming-weight lst)
+  (if (null? lst)
+            0
+(+ (car lst) (hamming-weight (cdr lst)))))
+```
 
 ## Output
+![image](https://user-images.githubusercontent.com/14197773/38027639-4cadf322-3288-11e8-889e-eb3f84aac935.png)
 
 ## Conclusion
+I found this problem sheet interesting and learned about what exactly hamming weight is. I also learnt how to implement the hamming weight into a racket solution.
 
 ## References
+[Reference 1](https://en.wikipedia.org/wiki/Hamming_weight)

@@ -1,5 +1,7 @@
 #lang racket
 
+(display "Donal McGahon G00299627 Problem Sheet 5 \n \n")
+
 (define (hamming-weight lst)
   (if (null? lst)
       0 ; if list is null return zero, otherwise
