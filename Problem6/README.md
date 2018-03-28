@@ -31,6 +31,8 @@ Finally, I checked to see if list a and b are equal and if so the recursion cont
 
 ## Output
 
+![image](https://user-images.githubusercontent.com/14197773/38036014-a696e064-329d-11e8-9420-c0f987f7d43f.png)
+
 ## Conclusion
 
 ## References
