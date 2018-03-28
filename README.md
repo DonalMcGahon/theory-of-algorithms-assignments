@@ -42,7 +42,9 @@ For the development of most of these problems I used Visual Studio Code.
  This repository is for problem sheets that are given to me for the module Theory of Algorithms by lecture [Ian McLoughlin](https://ianmcloughlin.github.io/). The course module sample files can be located [here](https://github.com/theory-of-algorithms/example-scheme).
 
 ## Problem Sheet for this Repository
-![image](https://user-images.githubusercontent.com/14197773/35748136-df601e7a-0844-11e8-8925-09a0e8e673ab.png)
+![image](https://user-images.githubusercontent.com/14197773/38024314-89c7f4f8-327c-11e8-9902-de94bc4069aa.png)
+
+![image](https://user-images.githubusercontent.com/14197773/38024348-a546ce84-327c-11e8-9743-f59270b0a082.png)
 
 
 
