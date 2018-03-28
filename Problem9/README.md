@@ -39,6 +39,27 @@ Or we can simply pass a lambda, like this:
 
 
 ## Design and Solution
+
+For this problem I first created a integer and set it to null. I also created 3 sod2 lists named a, b and c.
+
+```
+(define d null)
+(define (sod2 a b c)
+```
+I proceeded to check if any of the lists were null to return d, followed by if any of the lists were not equal in length to return d (which is set to null) also.
+
+```
+  (if (null? a)(null? b)(null? c))
+      d
+      (if (not(= (length a)(length b)(length c)))
+          d)
+```
+Finally, I used the map built in function to map through each list and if a + b + c corresponding elements when added together make an odd number, then return 1 to a new list. If it did not return an odd number, then 0 was returned to the new list.
+
+```
+(map (lambda (a b c) (if (odd? (+ a b c) ) 1 0)) a b c)))
+```
+
 ## Output
 ## Conclusion
 
