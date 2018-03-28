@@ -62,6 +62,7 @@ Finally, I used the map built in function to go through each list and if a = 1, 
 
 ## Output
 
+![image](https://user-images.githubusercontent.com/14197773/38046567-e418a520-32b7-11e8-8dbb-275dde85a794.png)
 
 ## Conclusion
 
