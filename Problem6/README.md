@@ -34,6 +34,7 @@ Finally, I checked to see if list a and b are equal and if so the recursion cont
 ![image](https://user-images.githubusercontent.com/14197773/38036014-a696e064-329d-11e8-9420-c0f987f7d43f.png)
 
 ## Conclusion
+I found once again that this problem was very interesting and through this problem and the previous problem, I have learned a lot about the hamming weight and hamming distance. I learned how they work and now how to implement them into a programming language like racket. It has also improved my capabilities with racket.
 
 ## References
 [Reference 1](https://classroom.synonym.com/calculate-hamming-distance-2656.html)
