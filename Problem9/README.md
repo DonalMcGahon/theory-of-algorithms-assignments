@@ -65,5 +65,6 @@ Finally, I used the map built in function to map through each list and if a + b 
 ![image](https://user-images.githubusercontent.com/14197773/38048477-5ef1a512-32bd-11e8-914a-179ef48ed91b.png)
 
 ## Conclusion
+I found that the previous problems on this problem sheet helped me out a lot for this problem. I was able to use what I had learned in the previous problem to help solve and understand this question. I enjoyed doing this problem and once again I am gaining more knowledge of the racket language.
 
 ## References
