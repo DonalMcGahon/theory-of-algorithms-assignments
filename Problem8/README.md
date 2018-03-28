@@ -40,6 +40,26 @@ Or we can simply pass a lambda, like this:
 
 ## Design and Solution
 
+For this problem I first created a integer and set it to null. I also created 3 chse named a, b and c.
+
+```
+(define d null)
+(define (chse a b c)
+```
+I proceeded to check if any of the lists were null to return d, followed by if any of the lists were not equal in length to return d (which is set to null) also.
+
+```
+  (if (null? a)(null? b)(null? c))
+      d
+      (if (not(= (length a)(length b)(length c)))
+          d)
+```
+Finally, I used the map built in function to go through each list and if a = 1, add the same element in b to the result. If it is not equal to 1, then add the same element in c as the result.
+
+```
+       (map (lambda (a b c) (if (= a 1) b c)) a b c)))
+```
+
 ## Output
 
 
