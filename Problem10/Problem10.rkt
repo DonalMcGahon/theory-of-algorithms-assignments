@@ -11,9 +11,9 @@
   (define (sumL d) ; define sumL function which will be used to add each element in a list
   (if (null? d)
       x ; if sumL is null return x
-      (+ (car d)(sumL (cdr d))))) ; Otherwise, take 2nd element, then take the 1st element and repeat until crd a reaches the end of the list
+      (+ (car d)(sumL (cdr d))))) ; Otherwise, take 2nd element, then take the 1st element and repeat until crd d reaches the end of the list
         	(if (not (= (length l)(length m)))
-                a ; if the length of l & m are not equal, return d
+                a ; if the length of l & m are not equal, return a
                 (if (null? l)
                     x ; if l is null, return x
                     (if (null? m)
