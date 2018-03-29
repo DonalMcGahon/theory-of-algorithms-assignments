@@ -2,18 +2,18 @@
 
 (display "Donal McGahon G00299627 Problem Sheet 10 \n \n")
 
-(define d null) ; define a as null
+(define a null) ; define a as null
 (define x 0) ; define x as 0
 
 (define (lstq l m) ; define lstq that takes two lists as arguments
 (define (sqre s)(* s s)) ; define square function called s
 
-  (define (sumL a) ; define sumL function which will be used to add each element in a list
-  (if (null? a)
+  (define (sumL d) ; define sumL function which will be used to add each element in a list
+  (if (null? d)
       x ; if sumL is null return x
-      (+ (car a)(sumL (cdr a))))) ; Otherwise, take 2nd element, then take the 1st element and repeat until crd a reaches the end of the list
+      (+ (car d)(sumL (cdr d))))) ; Otherwise, take 2nd element, then take the 1st element and repeat until crd a reaches the end of the list
         	(if (not (= (length l)(length m)))
-                d ; if the length of l & m are not equal, return d
+                a ; if the length of l & m are not equal, return d
                 (if (null? l)
                     x ; if l is null, return x
                     (if (null? m)

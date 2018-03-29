@@ -11,6 +11,8 @@ After I read the question I noticed that I will have to be able to create a squa
 
 ## Design and Solution
 
+
+
 ## Output
 
 ## Conclusion
