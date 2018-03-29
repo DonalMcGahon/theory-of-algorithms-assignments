@@ -5,16 +5,16 @@
 
 ; Adapted from - https://courses.cs.washington.edu/courses/cse341/98sp/scheme/recursion.html
 ; This function appends one list to the end of another list
-(define (my-append x y)
+(define (l x y)
   (if (null? x) y
-      (cons (car x) (my-append (cdr x) y))))
+      (cons (car x) (l (cdr x) y))))
 
 ; Adapted from - https://stackoverflow.com/questions/13046017/rotate-a-list-to-the-left-in-scheme-racket
 ; lcycle method that returns the list cyclically shifted one place to the left
 (define (lcycle list)
   (if (null? list)
       '()
-      (my-append (cdr list); Gets the second element and the rest of list list.
+      (l (cdr list); Gets the second element and the rest of list list.
               (cons (car list)'())))); gets first element in list and adds it to the previous list.
 
 ; Adapted from - https://stackoverflow.com/questions/5006750/removing-last-element-of-a-listscheme
