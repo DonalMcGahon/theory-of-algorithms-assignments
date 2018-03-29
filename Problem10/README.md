@@ -52,5 +52,6 @@ Otherwise, I take the 2nd element in both lists and subtract them. The result is
 ![image](https://user-images.githubusercontent.com/14197773/38093207-2be64f60-3362-11e8-88e2-5ebd2124e411.png)
 
 ## Conclusion
+I found that this final problem to be the hardest. I feel as though the previous problems helped me out significantly in being able to do this problem as I had learnt a lot from them. After completing all the problems on the problem sheet, I feel quite comfortable and confident with my racket language skills and feel as though I have learnt a great deal from accomplishing them.
 
 ## References
