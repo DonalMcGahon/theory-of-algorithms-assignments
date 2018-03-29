@@ -55,3 +55,6 @@ Otherwise, I take the 2nd element in both lists and subtract them. The result is
 I found that this final problem to be the hardest. I feel as though the previous problems helped me out significantly in being able to do this problem as I had learnt a lot from them. After completing all the problems on the problem sheet, I feel quite comfortable and confident with my racket language skills and feel as though I have learnt a great deal from accomplishing them.
 
 ## References
+[Reference 1](https://stackoverflow.com/questions/26515428/squaring-a-procedure-in-scheme/26515457#26515457)
+
+[Reference 2](https://github.com/DonalMcGahon/theory-of-algorithms-assignments/tree/master/Problem9)
