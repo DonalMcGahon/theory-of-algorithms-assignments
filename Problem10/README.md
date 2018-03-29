@@ -49,6 +49,8 @@ Otherwise, I take the 2nd element in both lists and subtract them. The result is
 
 ## Output
 
+![image](https://user-images.githubusercontent.com/14197773/38093207-2be64f60-3362-11e8-88e2-5ebd2124e411.png)
+
 ## Conclusion
 
 ## References
